@@ -3,7 +3,7 @@
 #### Task 1: Mined interaction descriptors:
  + Used Biopython to download, clean up the pdbs and separated the download files into com.pdb (complex), rec.pdb (antibody), and lig.pdb.
  + Counted frequency of amino acids type in each of the CDR sequences.
- + Used Prodigy to estimate binding energy (dG) between antibody and antigen for all the given pdbID complexes
+ + Used Prodigy to estimate binding energy (dG) between antibody and antigen for all the given pdbID complexes.
 
 #### What is PRODIGY / Binding Affinity Prediction Repository?
 
